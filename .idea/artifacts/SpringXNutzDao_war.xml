@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringXNutzDao:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sxnz.war">
+      <element id="artifact" artifact-name="SpringXNutzDao:war exploded" />
+    </root>
+  </artifact>
+</component>
